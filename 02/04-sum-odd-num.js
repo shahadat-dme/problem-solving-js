@@ -11,6 +11,7 @@ console.log(Odd);
 // }
 // console.log(Odd);
 
+
 // let Odd = 0;
 // for (let i = 51; i <= 100; i += 2) {
 //     Odd += i;
