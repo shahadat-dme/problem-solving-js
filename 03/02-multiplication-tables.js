@@ -5,5 +5,5 @@ const printMultiplicationTable = (n) => {
       }
     }
   };
-  printMultiplicationTable(10);
+  printMultiplicationTable(20);
   
